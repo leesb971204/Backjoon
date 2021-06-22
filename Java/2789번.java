@@ -1,5 +1,6 @@
-import java.util.Scanner;
+//https://velog.io/@cjhlsb/Algorithm-%EB%B0%B1%EC%A4%80-2562%EB%B2%88-%EC%B5%9C%EB%8C%93%EA%B0%92//
 
+import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
        Scanner sc = new Scanner(System.in);
