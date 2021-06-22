@@ -1,4 +1,4 @@
-//https://velog.io/@cjhlsb/Algorithm-%EB%B0%B1%EC%A4%80-2562%EB%B2%88-%EC%B5%9C%EB%8C%93%EA%B0%92//
+//https://velog.io/@cjhlsb//
 
 import java.util.Scanner;
 public class Main {
