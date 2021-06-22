@@ -1,4 +1,4 @@
-//https://velog.io/@cjhlsb//
+//https://velog.io/@cjhlsb
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
