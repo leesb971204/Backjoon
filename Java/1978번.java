@@ -11,14 +11,15 @@ public class Main {
     		int cnt1 = 0;
     		for(int k=2;k<=Math.sqrt(input);k++) // 2부터 input/2까지 나누어 떨어지는 수가 없으면 input은 소수
     		{
-    			
-    			if(input % k == 0)
+    			if(input % k == 0) {
     				cnt1++;
+    				break;
+    			}
     		}
-    		if(input == 1)
-    			continue;
-    		if(cnt1 == 0)
+    		if(cnt1 == 0) {
+    			if(input != 1)
     			cnt++;
+    		}
     	}
     	System.out.println(cnt);
     }
